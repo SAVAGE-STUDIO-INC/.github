@@ -1,0 +1,66 @@
+{
+  "kind": "org",
+  "login": "SAVAGE-STUDIO-INC",
+  "hero": "hero-savage-studio.svg",
+  "brand": "SAVAGE STUDIO",
+  "tagline": "TALENT · PRODUCTION · EVENTS · TAMPA",
+  "blurb": "Talent, handled — models, actresses and specialty talent, run from one desk.",
+  "duo": [
+    {
+      "name": "THE ARCHITECT",
+      "nameSvg": "name-the-architect.svg",
+      "img": "architect.webp",
+      "alt": "Niko — The Architect",
+      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+    },
+    {
+      "name": "ONYX",
+      "nameSvg": "name-onyx.svg",
+      "img": "onyx.webp",
+      "alt": "Onyx — the Bengal",
+      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
+    }
+  ],
+  "rosterTitle": "The roster",
+  "lastCol": "Build",
+  "law": [
+    "TALENT, HANDLED · ONE DESK · ONE DATABASE",
+    "FACES STAY THIN · THE MACHINE WRITES · GATES FIRST"
+  ],
+  "footer": "SAVAGE STUDIO HOLDINGS INC · TAMPA BAY, FL · BOOK&nbsp;→&nbsp;<a href=\"https://savagestud.io/booking\">savagestud.io/booking</a>",
+  "signature": "SAVAGE STUDIO",
+  "house": [
+    {
+      "name": "SAVAGE CEO",
+      "login": "savageceo"
+    },
+    {
+      "name": "SAVAGE STUDIO",
+      "login": "SAVAGE-STUDIO-INC"
+    },
+    {
+      "name": "SAVAGE ROSTER",
+      "login": "SAVAGE-ROSTER"
+    },
+    {
+      "name": "SAVAGE SUITE",
+      "login": "SAVAGE-SUITE"
+    },
+    {
+      "name": "SAVAGE CITY",
+      "login": "SAVAGE-CITY"
+    },
+    {
+      "name": "SAVAGE BUNNY",
+      "login": "SAVAGE-BUNNY"
+    },
+    {
+      "name": "SAVAGE CLIENTS",
+      "login": "SAVAGE-CLIENTS"
+    },
+    {
+      "name": "GHOST CROWN",
+      "login": "GHOST-CROWN"
+    }
+  ]
+}
