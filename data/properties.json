@@ -1,0 +1,111 @@
+{
+  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "statuses": {
+    "live": {
+      "dot": "🟢",
+      "label": "Live"
+    },
+    "building": {
+      "dot": "🟡",
+      "label": "Building"
+    },
+    "soon": {
+      "dot": "🔵",
+      "label": "Soon"
+    },
+    "private": {
+      "dot": "🔒",
+      "label": "Private"
+    }
+  },
+  "items": [
+    {
+      "name": "Savage Studio",
+      "domain": "savagestud.io",
+      "url": "https://savagestud.io",
+      "tag": "Talent house",
+      "status": "live",
+      "src": {
+        "label": "SAVAGE-STUDIO",
+        "url": null
+      }
+    },
+    {
+      "name": "Savage Pay",
+      "domain": "pay.savagestud.io",
+      "url": "https://pay.savagestud.io",
+      "tag": "Payments",
+      "status": "live",
+      "src": {
+        "label": "SAVAGE-PAY",
+        "url": null
+      }
+    },
+    {
+      "name": "The Bay Lens",
+      "domain": "thebaylens.com",
+      "url": "https://www.thebaylens.com",
+      "tag": "Photography",
+      "status": "live",
+      "src": {
+        "label": "THEBAYLENS.COM",
+        "url": null
+      }
+    },
+    {
+      "name": "Savage Socials",
+      "domain": "shoot → delivery",
+      "url": null,
+      "tag": "Client proofing",
+      "status": "private",
+      "src": {
+        "label": "SAVAGE-SOCIALS",
+        "url": null
+      }
+    },
+    {
+      "name": "Socials SaaS",
+      "domain": "savage-socials-saas.vercel.app",
+      "url": "https://savage-socials-saas.vercel.app",
+      "tag": "Photographer platform",
+      "status": "building",
+      "src": {
+        "label": "SAVAGE-SOCIALS-SAAS",
+        "url": null
+      }
+    },
+    {
+      "name": "Savage Events",
+      "domain": "savage-events.vercel.app",
+      "url": "https://savage-events.vercel.app",
+      "tag": "Events",
+      "status": "building",
+      "src": {
+        "label": "SAVAGE-EVENTS",
+        "url": null
+      }
+    },
+    {
+      "name": "The Machine",
+      "domain": "the operation",
+      "url": null,
+      "tag": "Ops cockpit",
+      "status": "private",
+      "src": {
+        "label": "SAVAGE-MACHINE",
+        "url": null
+      }
+    },
+    {
+      "name": "The Console",
+      "domain": "the studio desk",
+      "url": null,
+      "tag": "Desk",
+      "status": "private",
+      "src": {
+        "label": "SAVAGE-CONSOLE",
+        "url": null
+      }
+    }
+  ]
+}
