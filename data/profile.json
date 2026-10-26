@@ -1,28 +1,30 @@
 {
+  "_comment": "Layout for this profile. Shared by the house: the foil, the face, the diamond rule, the plaque. Unique to this page: hero (its own motif), duo ([] hides the portraits), wall (title + columns of build tiles; the tiles come from each item's logo in properties.json), columns (table headers), lawFrame (double|heavy|light|round|pillar|dashed|ledger|prompt), mark (swap in your own mark: drop it in assets/ and point here; markAlt is its alt text).",
   "kind": "org",
   "login": "SAVAGE-STUDIO-INC",
-  "hero": "hero-savage-studio.svg",
+  "hero": "hero-savage-studio-viewfinder.svg",
   "brand": "SAVAGE STUDIO",
   "tagline": "TALENT · PRODUCTION · EVENTS · TAMPA",
   "blurb": "Talent, handled — models, actresses and specialty talent, run from one desk.",
-  "duo": [
-    {
-      "name": "THE ARCHITECT",
-      "nameSvg": "name-the-architect.svg",
-      "img": "architect.webp",
-      "alt": "Niko — The Architect",
-      "caption": "PRODUCER · ENGINEER · THE ONE WHO SHIPS"
+  "mark": "s-diamond.png",
+  "markAlt": "The SAVAGE crown-S mark",
+  "duo": [],
+  "wall": {
+    "title": {
+      "svg": "title-the-desk.svg",
+      "alt": "THE DESK"
     },
-    {
-      "name": "ONYX",
-      "nameSvg": "name-onyx.svg",
-      "img": "onyx.webp",
-      "alt": "Onyx — the Bengal",
-      "caption": "CHIEF QUALITY BENGAL · STUDIO ENFORCER"
-    }
+    "cols": 4
+  },
+  "rosterTitle": "Every build on the desk",
+  "columns": [
+    "Build",
+    "Type",
+    "Live at",
+    "Status",
+    "Repo"
   ],
-  "rosterTitle": "The roster",
-  "lastCol": "Build",
+  "lawFrame": "heavy",
   "law": [
     "TALENT, HANDLED · ONE DESK · ONE DATABASE",
     "FACES STAY THIN · THE MACHINE WRITES · GATES FIRST"

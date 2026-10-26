@@ -9,32 +9,58 @@
 
 <div align="center">
 
-<img src="../assets/hero-savage-studio.svg" width="640" alt="SAVAGE STUDIO — TALENT · PRODUCTION · EVENTS · TAMPA" />
+<img src="../assets/hero-savage-studio-viewfinder.svg" width="640" alt="SAVAGE STUDIO — TALENT · PRODUCTION · EVENTS · TAMPA" />
 
 <em>Talent, handled — models, actresses and specialty talent, run from one desk.</em>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
+<p><img src="../assets/title-the-desk.svg" height="30" alt="THE DESK" /></p>
+
 <table>
   <tr>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-the-architect.svg" height="34" alt="THE ARCHITECT" /><br/>
-      <img src="../assets/architect.webp" height="392" alt="Niko — The Architect" /><br/>
-      <sub>PRODUCER · ENGINEER · THE ONE WHO SHIPS</sub>
+    <td align="center" valign="top" width="220">
+      <a href="https://savagestud.io"><img src="../assets/logos/savage-studio.svg" width="196" alt="Savage Studio" /></a><br/>
+      <sub>Talent house</sub>
     </td>
-    <td align="center" width="430" valign="top">
-      <img src="../assets/name-onyx.svg" height="34" alt="ONYX" /><br/>
-      <img src="../assets/onyx.webp" height="392" alt="Onyx — the Bengal" /><br/>
-      <sub>CHIEF QUALITY BENGAL · STUDIO ENFORCER</sub>
+    <td align="center" valign="top" width="220">
+      <a href="https://pay.savagestud.io"><img src="../assets/logos/savage-pay.svg" width="196" alt="Savage Pay" /></a><br/>
+      <sub>Payments</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://www.thebaylens.com"><img src="../assets/logos/the-bay-lens.svg" width="196" alt="The Bay Lens" /></a><br/>
+      <sub>Photography</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/savage-socials.svg" width="196" alt="Savage Socials" /><br/>
+      <sub>Client proofing</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="220">
+      <a href="https://savage-socials-saas.vercel.app"><img src="../assets/logos/socials-saas.svg" width="196" alt="Socials SaaS" /></a><br/>
+      <sub>Photographer platform</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <a href="https://savage-events.vercel.app"><img src="../assets/logos/savage-events.svg" width="196" alt="Savage Events" /></a><br/>
+      <sub>Events</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/the-machine.svg" width="196" alt="The Machine" /><br/>
+      <sub>Ops cockpit</sub>
+    </td>
+    <td align="center" valign="top" width="220">
+      <img src="../assets/logos/the-console.svg" width="196" alt="The Console" /><br/>
+      <sub>Desk</sub>
     </td>
   </tr>
 </table>
 
 <img src="../assets/rule.svg" width="520" alt="" />
 
-### The roster
+### Every build on the desk
 
-| Property | Type | Live at | Status | Build |
+| Build | Type | Live at | Status | Repo |
 |:--|:--|:--|:--:|:--:|
 | **Savage Studio** | Talent house | [savagestud.io ↗](https://savagestud.io) | 🟢 Live | `SAVAGE-STUDIO` |
 | **Savage Pay** | Payments | [pay.savagestud.io ↗](https://pay.savagestud.io) | 🟢 Live | `SAVAGE-PAY` |
@@ -50,10 +76,10 @@
 <br/>
 
 ```text
-╔════════════════════════════════════════════════════════╗
-║       TALENT, HANDLED · ONE DESK · ONE DATABASE        ║
-║   FACES STAY THIN · THE MACHINE WRITES · GATES FIRST   ║
-╚════════════════════════════════════════════════════════╝
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃       TALENT, HANDLED · ONE DESK · ONE DATABASE        ┃
+┃   FACES STAY THIN · THE MACHINE WRITES · GATES FIRST   ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
 <br/>
