@@ -1,5 +1,5 @@
 {
-  "_comment": "SOURCE OF TRUTH for this org's roster. Add a property = add one object to items[], then push (the Action rebuilds profile/README.md). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url).",
+  "_comment": "SOURCE OF TRUTH for this roster. Add a build = add one object to items[], then push (the Action rebuilds the README). Fields: name, domain, url (null = no public door), tag, status (live|building|soon|private), src ({label, url} or null; private repos carry no url), logo (the build's tile on the wall: a file under assets/. It ships as a placeholder with the name set in MBF Royal; overwrite that file with the real logo, same name, on a 5:3 canvas such as 1500x900, so the wall stays even. A PNG works too: change the extension here. Omit logo to keep a build off the wall).",
   "statuses": {
     "live": {
       "dot": "🟢",
@@ -28,7 +28,8 @@
       "src": {
         "label": "SAVAGE-STUDIO",
         "url": null
-      }
+      },
+      "logo": "logos/savage-studio.svg"
     },
     {
       "name": "Savage Pay",
@@ -39,7 +40,8 @@
       "src": {
         "label": "SAVAGE-PAY",
         "url": null
-      }
+      },
+      "logo": "logos/savage-pay.svg"
     },
     {
       "name": "The Bay Lens",
@@ -50,7 +52,8 @@
       "src": {
         "label": "THEBAYLENS.COM",
         "url": null
-      }
+      },
+      "logo": "logos/the-bay-lens.svg"
     },
     {
       "name": "Savage Socials",
@@ -61,7 +64,8 @@
       "src": {
         "label": "SAVAGE-SOCIALS",
         "url": null
-      }
+      },
+      "logo": "logos/savage-socials.svg"
     },
     {
       "name": "Socials SaaS",
@@ -72,7 +76,8 @@
       "src": {
         "label": "SAVAGE-SOCIALS-SAAS",
         "url": null
-      }
+      },
+      "logo": "logos/socials-saas.svg"
     },
     {
       "name": "Savage Events",
@@ -83,7 +88,8 @@
       "src": {
         "label": "SAVAGE-EVENTS",
         "url": null
-      }
+      },
+      "logo": "logos/savage-events.svg"
     },
     {
       "name": "The Machine",
@@ -94,7 +100,8 @@
       "src": {
         "label": "SAVAGE-MACHINE",
         "url": null
-      }
+      },
+      "logo": "logos/the-machine.svg"
     },
     {
       "name": "The Console",
@@ -105,7 +112,8 @@
       "src": {
         "label": "SAVAGE-CONSOLE",
         "url": null
-      }
+      },
+      "logo": "logos/the-console.svg"
     }
   ]
 }
